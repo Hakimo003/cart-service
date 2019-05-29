@@ -6,6 +6,8 @@ It demonstrates how to wire up small microservices into a larger application usi
 
 Services
 --------
+
+
 There are several individual microservices and infrastructure components that make up this app:
 
 1. Catalog Service - Java application running on [JBoss Web Server (Tomcat)](https://access.redhat.com/products/red-hat-jboss-web-server/) and MongoDB, serves products and prices for retail products
